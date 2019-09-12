@@ -1,0 +1,10 @@
+Started by user [8mha:////4PfJkzFeD+LspANPtLXJ4mc8La13JMDut1s8F2wJN6z4AAAAkx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CIwAQDYegtJvwAAAA==[0muser
+Running as SYSTEM
+Building on master in workspace D:\autotest\jenkins\workspace\Hard
+[Hard] $ cmd /c call C:\WINDOWS\TEMP\jenkins6026006897564859044.bat
+
+D:\autotest\jenkins\workspace\Hard>ECHO Hello pidar  
+Hello pidar 
+
+D:\autotest\jenkins\workspace\Hard>exit 0 
+Finished: SUCCESS
